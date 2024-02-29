@@ -18,4 +18,5 @@ public protocol FCMOptionsProtocol {
     ///         }
     ///     }
     var analyticsLabel: String { get set }
+    var image: String { get set }
 }
